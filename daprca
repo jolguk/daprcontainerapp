@@ -1,7 +1,7 @@
 # £nv variables
 
 RESOURCE_GROUP="my-containerapps"
-LOCATION="canadacentral"
+LOCATION="uksouth"
 CONTAINERAPPS_ENVIRONMENT="containerapps-env"
 LOG_ANALYTICS_WORKSPACE="containerapps-logs"
 STORAGE_ACCOUNT_CONTAINER="mycontainer"
