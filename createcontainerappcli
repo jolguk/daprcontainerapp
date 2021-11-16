@@ -4,7 +4,7 @@ az extension add \
 az provider register --namespace Microsoft.Web
 
 RESOURCE_GROUP="my-containerapps"
-LOCATION="uksouth"
+LOCATION="westeurope"
 LOG_ANALYTICS_WORKSPACE="containerapps-logs"
 CONTAINERAPPS_ENVIRONMENT="containerapps-env"
 
